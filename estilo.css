@@ -1,83 +1,69 @@
-body, html {
-    margin: 0;
-    font: 16px "Lato", sans-serif;
-    color: #777;
-    height: 100%;
+*{
+margin: 0;
+padding: 0;
 }
-.conteudo {
-    color: black;
-    background-color: white;
-    text-align: justify;
-    padding: 50px 80px;
+body{
+    font-size: 1.2em;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background-color: black;
+    color:white;
 }
+#cabecalho{
+    background:#f7b600;
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    align-items: center;            
+}
+.img1{
+    display: flex;
+    align-items: center;
 
-h3 {
-    text-transform: uppercase;
-    color: rgb(192, 133, 24);
+}
+#cabecalho img{
+    padding: 0px;
+    display: flex;
+    height: 70px;
+    align-items:center;
+    margin-left: 30px;   
+}       
+#introducao{
+    margin: 10px;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+#introducao-2{
+    margin: 10px;
+    padding: 10px;
+}
+.principios{
+    margin: 10px;
+    padding: 10px;
+}
+h2{
     text-align: center;
-}
-h4{
-    color: rgb(192, 133, 24);
-}
-
-h5{
-    color: rgb(192, 133, 24);
-}
-
-p{
-    margin-bottom: 20px;
-}
-
-/* Efeito Parallax*/
-.caixa1, .caixa2, .caixa3, .caixa4, .caixa5 {
-    position: relative;
-    height: 100%;
-    background-repeat: no-repeat;
-    background-size:cover;
-    background-position: center;
-    background-attachment: fixed; 
-}
-
-.caixa1 {
-    background-image: url(imagens/01.webp);
-}
-
-.caixa2 {
-    background-image: url(imagens/02.jpg);
-}
-
-.caixa3 {
-    background-image: url(imagens/03.svg);
-}
-
-.caixa4 {
-    background-image: url(imagens/04.jpg);
-}
-
-.caixa5 {
-    background-image: url(imagens/05.jpg);
-}
-
-.conteudo-titulo {
-    position: absolute;
-    left: 0;
-    top: 45%;
-    width: 100%;
-    text-align: center;
-}
-
-.conteudo-titulo span.titulo {
-    color: rgb(192, 133, 24);
-    background-color: #111;
-    padding: 18px;
-    font-size: 25px;
-    letter-spacing: 5px;
-    text-transform: uppercase;
+    color:#f7b600;
+    margin-bottom: 15px;
 }
 
 #rodape{
+    background-color: #f7b600;
     text-align: center;
-    background-color: #111;
-    color: rgb(192, 133, 24);
-    padding: 18px;
+    color:white;
+    padding: 10px;
+    margin-top: 20px;
+}
+.legenda{
+    text-align: center;
+    margin-top: 5px;
+}
+.paragrafo  {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}   
+.imagem-center{
+    align-items: center;
 }
