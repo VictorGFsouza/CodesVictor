@@ -1,6 +1,9 @@
 Meu nome é Victor, sou estudante de Ciência da Computação na FAM (FACULDADE DE AMERICANA). 
-Venho através desse portfólio mostrar meus estudos durante o curso, atualmente estou no 2º semestre. 
+Venho através desse portfólio mostrar meus estudos durante o curso, atualmente estou no 2º semestre.
 
+1ºProjeto: https://victorgfsouza.github.io/CodesVictor/https://victorgfsouza.github.io/CodesVictor/crash-dos-jogos/crash.html12principios/dozeprincipios.html
+
+2ºProjeto: https://victorgfsouza.github.io/CodesVictor/crash-dos-jogos/crash.html
 
 ![logofam](https://user-images.githubusercontent.com/104170913/194876619-ff901e50-c0b6-403a-8213-f14e41dc55b1.png)
 
