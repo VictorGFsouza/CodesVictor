@@ -1,4 +1,7 @@
 Meu nome é Victor, sou estudante de Ciência da Computação na FAM (FACULDADE DE AMERICANA). 
 Venho através desse portfólio mostrar meus estudos durante o curso, atualmente estou no 2º semestre. 
 
-![MicrosoftTeams-image](https://user-images.githubusercontent.com/104170913/194876470-c137c30c-8ae0-4a70-b541-2f459af2e767.png)
+
+![logofam](https://user-images.githubusercontent.com/104170913/194876619-ff901e50-c0b6-403a-8213-f14e41dc55b1.png)
+
+![curso-desenvolvedor-front-end-1536x424](https://user-images.githubusercontent.com/104170913/194876716-b74416eb-e531-490b-914e-34ecaa8c0d04.jpg)
