@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    text-align: center;
+    background-color: rgb(255, 168, 7);
+    padding: 25px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+img {
+    width: 100px;
+    height: 80px;
+}
+
+img:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+h2{
+    text-align: center;
+    padding: 15px;
+}
+
+#orderForm{
+    text-align: center;
+}
+
+button {
+    background-color: rgb(255, 168, 7);
+    color: white;
+    padding: 7px;
+    cursor: pointer;
+}
+
+
+
+
+
