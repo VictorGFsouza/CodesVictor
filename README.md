@@ -5,6 +5,10 @@ Venho através desse portfólio mostrar meus estudos durante o curso, atualmente
 
 2ºProjeto: https://victorgfsouza.github.io/CodesVictor/crash-dos-jogos/crash.html
 
-![logofam](https://user-images.githubusercontent.com/104170913/194876619-ff901e50-c0b6-403a-8213-f14e41dc55b1.png)
+Usando Javascript: 
+
+1ºProjeto: https://victorgfsouza.github.io/CodesVictor/cadastroDevs/index.html
+
+2ºProjeto: https://victorgfsouza.github.io/CodesVictor/forms/forms.html
 
 ![curso-desenvolvedor-front-end-1536x424](https://user-images.githubusercontent.com/104170913/194876716-b74416eb-e531-490b-914e-34ecaa8c0d04.jpg)
