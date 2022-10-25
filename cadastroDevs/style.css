@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    background-color: rgb(19, 126, 248);
+    padding: 35px;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.container{
+    background-color: azure;
+
+    letter-spacing: 2px;
+}
+
+#devForm{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    width: 50vw;
+    height: 20vw;
+    padding: 50px;
+}
+
+.label-tech{
+    margin: 15px;
+    padding: 15px;
+}
