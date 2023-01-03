@@ -1,5 +1,4 @@
-Meu nome é Victor, sou estudante de Ciência da Computação na FAM (FACULDADE DE AMERICANA). 
-Venho através desse portfólio mostrar meus projetos.
+Meu nome é Victor, sou estudante de Ciência da Computação, venho através desse portfólio mostrar meus projetos.
 
 1ºProjeto: https://victorgfsouza.github.io/CodesVictor/12principios/dozeprincipios.html
 
