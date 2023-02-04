@@ -18,4 +18,4 @@ Meu nome é Victor, sou estudante de Ciência da Computação, venho através de
 
 9ºProjeto: https://victorgfsouza.github.io/CodesVictor/to_do_list/index.html
 
-![curso-desenvolvedor-front-end-1536x424](https://user-images.githubusercontent.com/104170913/194876716-b74416eb-e531-490b-914e-34ecaa8c0d04.jpg)
+![html-css-javascript](https://user-images.githubusercontent.com/104170913/216787324-14736669-442d-4102-a19f-6a74c19552dd.jpg)
