@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para Você, Meu Amor ❤️</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background: linear-gradient(to right, #ff9a9e, #fad0c4);
+            color: #fff;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .container {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 2.5rem;
+        }
+        p {
+            font-size: 1.2rem;
+        }
+        button {
+            background: #ff6f61;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 1.2rem;
+            cursor: pointer;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        button:hover {
+            background: #ff3b30;
+        }
+        .hidden-message {
+            display: none;
+            font-size: 1.5rem;
+            margin-top: 20px;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Para o amor da minha vida ❤️</h1>
+        <p>Meu amor, todos os dias ao seu lado são um presente. Você ilumina minha vida e meu coração bate mais forte só de pensar em você.</p>
+        <button onclick="revelarMensagem()">Clique aqui, meu amor</button>
+        <p class="hidden-message" id="mensagem">Eu te amo infinitamente! 💖</p>
+    </div>
+
+    <script>
+        function revelarMensagem() {
+            document.getElementById('mensagem').style.display = 'block';
+        }
+    </script>
+</body>
+</html>
